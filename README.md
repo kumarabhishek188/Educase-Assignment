@@ -1,6 +1,9 @@
-# PopX Assignment (React + Vite + Tailwind)
+# PopX Assignment
 
 A small mobile-first React app that mimics a 4-step flow with a boxed "phone" UI, bottom navigation, and simple auth-like behavior using localStorage.
+
+## 🚀 Live Demo
+Here is my live link: [Live Project](https://educase-abhishek.netlify.app/)
 
 ## Tech Stack
 - React 19 + React Router 7
@@ -71,6 +74,3 @@ src/
   index.css            # Tailwind import
 ```
 
-## Notes
-- Tailwind v4 is enabled via the Vite plugin, with `@import "tailwindcss";` in `src/index.css`.
-- The UI aims to match the provided mock (boxed layout + bottom nav).
